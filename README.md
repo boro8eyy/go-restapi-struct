@@ -1,0 +1,1 @@
+# go-restapi-struct
