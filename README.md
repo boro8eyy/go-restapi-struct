@@ -7,4 +7,4 @@ Simple structure for fiber app with mongoDB.
 In `.env` file replace `<your mongouri>` on your mongouri.
 
 ![](./images/mongouri.png)
-<img src="https://github.com/boro8eyy/go-restapi-struct/raw/readme/images/mongouri.png" width="200" height="200">
+<img src="https://github.com/boro8eyy/go-restapi-struct/raw/readme/images/mongouri.png" width="500" height="450">

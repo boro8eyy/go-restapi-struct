@@ -17,7 +17,7 @@ import (
 var nameCollection *mongo.Collection = configs.GetCollection(configs.DB,"yourNameCollection")
 // var validate = validator.New()
 
-func GetTodoList(c *fiber.Ctx) error {
+func GetNames(c *fiber.Ctx) error {
     ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
     var names []models.NameModel
     defer cancel()
